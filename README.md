@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franky Suazo</h1>
 <h3 align="center">I'm a passionate programmer who has completed several bootcamps and embarked on a freelancing journey to gain diverse experience. Currently working full-time, I'm continuously honing my coding skills and seeking opportunities to contribute to a dynamic company. Until then, I remain dedicated to strengthening my expertise and expanding my knowledge in the field.</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankysuazo" alt="frankysuazo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Algorithms**
 
 - 💬 Ask me about **UI and/or UX**
@@ -14,6 +8,13 @@
 - 📫 How to reach me **frankysuazo@outlook.com**
 
 - ⚡ Fun fact **I do Archery**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankysuazo" alt="frankysuazo" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
