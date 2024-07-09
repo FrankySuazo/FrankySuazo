@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Franky Suazo</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FrankySuazo.FrankySuazo" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?front=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Welcome+to+my+Github+👋;I'm+Franky+Suazo!;" />
+</h1>
+
 <h3 align="center">I'm a passionate programmer who has completed several bootcamps and embarked on a freelancing journey to gain diverse experience. Currently working full-time, I'm continuously honing my coding skills and seeking opportunities to contribute to a dynamic company. Until then, I remain dedicated to strengthening my expertise and expanding my knowledge in the field.</h3>
 
-- 🌱 I’m currently learning **Python and Algorithms**
+- 🌱 I’m currently learning **Python, Data and Algorithms**
 
 - 💬 Ask me about **UI and/or UX**
 
